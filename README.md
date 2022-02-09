@@ -14,7 +14,7 @@ Use read() to read the contents of the file.
 ### Step 4: 
 Split the lines using split().
 ### Step 5:  
-Use len() to find the number of elements that got split and print the Output.
+Use len() to find the number of elements that got split.
 ### Step 6: 
 Print the Output.
 ## PROGRAM:
